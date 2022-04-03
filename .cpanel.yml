@@ -4,3 +4,4 @@ deployment:
     - export DEPLOYPATH=/home/mark2xsolution/public_html/
      - /bin/cp index.html $DEPLOYPATH
     - /bin/cp css $DEPLOYPATH
+  - /bin/cp career.html $DEPLOYPATH
